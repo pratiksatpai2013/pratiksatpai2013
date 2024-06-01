@@ -1,7 +1,7 @@
 [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fmy-leaning-journy-datacamp-wael-dagash&psig=AOvVaw1kMiSpc-MuXQLt01rR8sml&ust=1717329404968000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLC23-CsuoYDFQAAAAAdAAAAABAc)
 # 💫 About Me:
 👋🏻Hi! I am Pratik<br>🤓A passionate data science professional🔭 I’m currently working on Data Science related projects<br>🌱 I’m currently learning NLP, Deep Learning, Machine Learning, Cloud Technologies<be>
-<img align = "right" alt = "Coding" width = "350" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.onebridge.tech%2Fpost%2Fwhat-is-a-data-analyst-and-should-i-hire-one&psig=AOvVaw1kMiSpc-MuXQLt01rR8sml&ust=1717329404968000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLC23-CsuoYDFQAAAAAdAAAAABAh
+<img align = "right" alt = "Coding" width = "350" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.onebridge.tech%2Fpost%2Fwhat-is-a-data-analyst-and-should-i-hire-one&psig=AOvVaw1kMiSpc-MuXQLt01rR8sml&ust=1717329404968000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLC23-CsuoYDFQAAAAAdAAAAABAh>
 
 
 ## 🌐 Socials:
