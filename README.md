@@ -1,6 +1,6 @@
 ![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif)
 # 💫 About Me:
-👋🏻Hi! I am Pratik<br>🤓A passionate data science professional<br>🔭 I’m currently working on Data Science related projects<br>🌱 I’m currently learning and implementing NLP, Deep Learning, Machine Learning, Cloud Technologies<be>
+👋🏻Hi! I am Pratik<br>🤓A passionate data science professional<br>🔭 I’m currently working @Pwc India in it's Data and Analytics wing<br>🌱 I’m currently learning and implementing NLP, Deep Learning, Machine Learning, Cloud Technologies<be>
 
 <img align = "right" alt = "Coding" width = "400" src = "https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
 
