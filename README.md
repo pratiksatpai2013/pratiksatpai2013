@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif)
 # 💫 About Me:
-👋🏻Hi! I am Pratik<br>🤓A passionate data science and generative ai professional<br>🔭 I’m currently working @Pwc India in its Data and Analytics wing<br>🌱 I’m learning and grinding!<be>
+👋🏻Hi! I am Pratik<br>🤓A passionate data science and generative ai professional<br>🔭 I’m currently working @Accenture Startegy India in its Decision Science wing<br>🌱 Keep Learning!<be>
 
 <img align = "right" alt = "Coding" width = "400" src = "https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
 
